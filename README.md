@@ -6,11 +6,11 @@ This tool will allow you to convert any PDF file into either a single or multipl
 
 You can run the application in multiple ways:
 
-*Option 1* 
+### Option 1
 
 Navigate to the _Archive.zip_ file and unzip the contents. Select the self-contained executable file suitable for your operating system (MacOS / Windows) - Linux is coming soon. 
 
-*Option 2*
+### Option 2
 
 Pre-requisites .Net 7 SDK -  which can be found [here](https://dotnet.microsoft.com/en-us/download/dotnet/7.0) for your operating system.
 
