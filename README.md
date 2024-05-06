@@ -11,6 +11,9 @@ You can run the application in multiple ways:
 Navigate to the _Archive.zip_ file and unzip the contents. Select the self-contained executable file suitable for your operating system (MacOS / Windows) - Linux is coming soon. 
 
 *Option 2*
+
+Pre-requisites .Net 7 SDK -  which can be found [here](https://dotnet.microsoft.com/en-us/download/dotnet/7.0) for your operating system.
+
 1. Clone the repo
 2. Open the solution in the preferred editor / IDE
 3. Navigate to the project folder
