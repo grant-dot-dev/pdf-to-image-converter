@@ -1,4 +1,6 @@
-## Welcome to my quick and easy PDF to Image converter 
+# PDF to Image Converter
+
+This tool will allow you to convert any PDF file into either a single or multiple .png files, dependent on the parameters passed in. 
 
 # Getting Started
 
